@@ -1,4 +1,4 @@
-token = 'NzM4NDQ1NzE5MzgzNDQxNTE5.XyMBKw.PLEohLIScC2k6-Gk7ab4-lyjDKM'
+token = 'NzM4NDQ1NzE5MzgzNDQxNTE5.XyMBKw.umaTuofa80qa1h9MmFzzpEv8grw'
 
 POST_ID = 739270845553311765
 
